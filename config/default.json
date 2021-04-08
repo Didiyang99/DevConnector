@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://Didi123:thisispassword@devconnector.cxji3.mongodb.net/DevConnector?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://Didi123:thisispassword@devconnector.cxji3.mongodb.net/DevConnector?retryWrites=true&w=majority",
+    "jwtSecret":"mysecrettoken"
 }
